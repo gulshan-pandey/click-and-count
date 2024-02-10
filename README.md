@@ -1,8 +1,7 @@
 # click-and-count
 <br>
-this is my first git repository hii
+this project is based on counting the clicks on the button
 
-hello channel welcome to my guys!!!
 # hello
 
 
